@@ -9,7 +9,7 @@ function sizeOfThings(){
     document.querySelector('.screen-size').innerHTML = 'A largura da tela é ' + screenWidth + 'px e a altura é ' + screenHeight + 'px';
 
     // Ajeitar a largura em centimetros com a regua
-    const windowWidth_cm = windowWidth/37.8
+    const windowWidth_cm = windowWidth/118
     // Função que adiciona um centímetro à regua de acordo com o espaço de tela
 };
 

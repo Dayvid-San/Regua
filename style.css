@@ -8,9 +8,12 @@
 }
 
 .centimetros{
-    border-top: solid #000 2px;
 
     margin-left: 37.8px;
+}
+.linha{
+    border: 2px solid #000;
+    transform: rotate(90deg);
 }
 
 @media (max-width: 550px){
@@ -24,10 +27,16 @@
     }
     
     .centimetros{
-        border-top: solid #000 2px;
-    
-        margin-top: 37.8px;
-        transform: rotate(180deg);
+        margin-block-end: 110px;
+        margin-left: 30%;
+    }
+    .num{
+        position: relative;
+        
+    }
+    .linha{
+        border: 2px solid #000;
+        transform: none;
     }
     
 }

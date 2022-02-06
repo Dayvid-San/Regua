@@ -1,4 +1,11 @@
 # Régua
+Régua virtual
+
 
 ## Como vai funcionar?
-Através das medidas da tela, vou calibrar as medidas tentando chegar ao mais exato possível
+Através das medidas da tela, vou calibrar as medidas tentando chegar ao mais exato possível.
+O movimento do aparelho será detectado e então a régua se moverá junto
+
+
+## O que está pendente
+- [ ] como fazer adição dos centimetros continuamente enquanto rola para baixo

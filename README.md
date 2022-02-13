@@ -8,4 +8,5 @@ O movimento do aparelho será detectado e então a régua se moverá junto
 
 
 ## O que está pendente
-- [ ] como fazer adição dos centimetros continuamente enquanto rola para baixo
+- [ ] Escala real em centímetros
+- [ ] Adição dos centimetros continuamente enquanto rola para baixo
